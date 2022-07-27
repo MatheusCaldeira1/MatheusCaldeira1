@@ -1,8 +1,8 @@
 🤩 👻 Hi everyone 👋 😀 
 
-🔭 I’m currently working on my school.
+Hy i'm a student and i'm starting to program at 2022 in Instituto Social Nossa Senhora de Fátima, I have 16 years old, 
 
-🌱 I’m currently learning js, react, c#, Mysql.
+📚 I’m currently learning js, react, c#, Mysql.
 
 👯 I’m looking to collaborate on New ecommerce project.
 
