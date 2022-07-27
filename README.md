@@ -1,16 +1,13 @@
-### Hi there 👋
+🤩 👻 Hi everyone 👋 😀 
 
-<!--
-**Matheusthebest/Matheusthebest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on my school.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning js, react, c#, Mysql.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on New ecommerce project.
+
+🤔 I’m looking for help with JavaScripst projects.
+
+📫 How to reach me: gamesmatheusplay9@gmail.com
+
+😄 Pronouns: he/ him
