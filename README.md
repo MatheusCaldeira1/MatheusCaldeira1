@@ -8,6 +8,6 @@ Hy i'm a student and i'm starting to program at 2022 in Instituto Social Nossa S
 
 🤔 I’m looking for help with JavaScripst projects.
 
-📫 How to reach me: gamesmatheusplay9@gmail.com
+📫 How to reach me: matheuscaldeira@terra.com.br
 
 😄 Pronouns: he/ him
