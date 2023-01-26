@@ -1,6 +1,9 @@
 ### Matheus Caldeira...
 
-- 🤖 São Paulo, Brasil
+- São Paulo, Brasil
+- 16 anos 
+- Programador iniciante (Full Stack)
+- JS, HTML, CSS, e um pouco de C#
 
 <div align="center">
   <a href="https://github.com/MatheusCaldeira1"/>
